@@ -4,8 +4,6 @@
 
 我的技术栈主要是`Java`、`Python`、`Golang`和`Kotlin`。欢迎各位同行进行交流分享。
 
-![](https://github-readme-stats.vercel.app/api?username=NotFound403&count_private=true&show_icons=true&hide=prs&hide_title=true")
-
 ✔我的个人技术分享都在我的个人博客: [https://felord.cn](https://felord.cn)
 
 ✔业余运营有自己的公众号：
